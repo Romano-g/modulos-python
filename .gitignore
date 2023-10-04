@@ -1,4 +1,5 @@
 venv
 aulas
+.mypy_cache
 
 *.txt
