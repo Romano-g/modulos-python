@@ -3,3 +3,4 @@ aulas
 .mypy_cache
 
 *.txt
+*.ipynb
